@@ -9,7 +9,7 @@ class Analysis:
 
     """
 
-    WATER_THRESHOLD = 0.0 #limite de água
+    WATER_THRESHOLD = 0.05 #limite de água
     SOIL_THRESHOLD = 0.25 #limiar do solo
 
     
